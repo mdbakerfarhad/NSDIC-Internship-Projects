@@ -23,7 +23,7 @@ Each project includes:
   - Electronics drives the highest sales, while Clothing dominates in quantity.
   - Mumbai and Delhi are the top-performing cities.
   - Sales peak during the festive season (October-November).
-- **Dashboard Screenshot:** ![Store Dashboard Screenshot](link_to_store_screenshot)
+- **Dashboard Screenshot:** ![Store Dashboard Screenshot](https://github.com/mdbakerfarhad/NSDIC-Internship-Projects/blob/main/Store%20Data%20Analysis/Store%20Data%20Analysis%20By%20Baker.jpg?raw=true)
 
 ### 2. HR Data Analysis
 - **Objective:** Analyze employee data to determine headcount, gender distribution, salary discrepancies, and more.
@@ -32,7 +32,7 @@ Each project includes:
   - Identified gender diversity gaps.
   - Highlighted salary trends across roles.
   - Examined the impact of qualifications on salaries.
-- **Dashboard Screenshot:** ![HR Dashboard Screenshot](link_to_HR_screenshot)
+- **Dashboard Screenshot:** ![HR Dashboard Screenshot](https://github.com/mdbakerfarhad/NSDIC-Internship-Projects/blob/main/HR%20Data%20Analysis/HR%20DATA%20ANALYSIS_BAKER.png?raw=true)
 
 ### 3. Customer Churn Analysis
 - **Objective:** Investigate reasons behind customer attrition and provide actionable insights to reduce churn.
