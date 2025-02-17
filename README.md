@@ -1,6 +1,4 @@
-# NSDIC-Internship-Projects
-
-# Data Analysis Projects
+# NSDIC-Internship-Data-Analysis-Projects
 
 Welcome to my Data Analysis Projects repository! This repository contains the following projects completed during my internship with **NSDIC**:
 
@@ -63,8 +61,7 @@ Each project includes:
 ---
 
 ## 🔗 **LinkedIn Post**
-You can view my LinkedIn post showcasing these projects here: [Insert LinkedIn Post Link]
-
+You can view my LinkedIn post showcasing these projects here: https://lnkd.in/gt7B9kAk
 ---
 
 ## 🙏 **Acknowledgments**
