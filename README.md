@@ -53,13 +53,6 @@ Each project includes:
 
 ---
 
-## 📸 **Dashboard Screenshots**
-- Store Data Analysis Dashboard: ![Store Dashboard](link_to_store_screenshot)
-- HR Data Analysis Dashboard: ![HR Dashboard](link_to_HR_screenshot)
-- Customer Churn Analysis Dashboard: ![Churn Dashboard](link_to_Churn_screenshot)
-
----
-
 ## 🔗 **LinkedIn Post**
 You can view my LinkedIn post showcasing these projects here:  ![NSDIC-Internship-Data-Analysis-Projects](https://lnkd.in/gt7B9kAk)
 ---
