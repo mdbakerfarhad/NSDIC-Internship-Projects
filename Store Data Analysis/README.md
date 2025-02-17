@@ -1,4 +1,4 @@
-### Excited to Share My First Project with NSDIC! 🎉
+# Excited to Share My First Project with NSDIC! 🎉
 
 *I’m thrilled to announce the completion of my Store Data Analysis project as part of the NSDIC internship program! Using Power BI, I created an interactive dashboard to analyze online sales data for Ashka Store across India. 
 The dashboard highlights key insights such as Electronics driving the highest sales, Clothing dominating in quantity, and Mumbai and Delhi emerging as top-performing cities. 
