@@ -61,7 +61,7 @@ Each project includes:
 ---
 
 ## 🔗 **LinkedIn Post**
-You can view my LinkedIn post showcasing these projects here: https://lnkd.in/gt7B9kAk
+You can view my LinkedIn post showcasing these projects here:  ![NSDIC-Internship-Data-Analysis-Projects](https://lnkd.in/gt7B9kAk)
 ---
 
 ## 🙏 **Acknowledgments**
